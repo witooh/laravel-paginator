@@ -2,7 +2,7 @@
 
 namespace Witooh\Paginator;
 
-class Paginator
+class Paginator implements IPaginator
 {
     /**
      * @var array
